@@ -8,14 +8,7 @@ The computer makes random moves while you play as **O** and the computer plays a
 ## 📌 Table of Contents
 - [Features](#-features)
 - [How to Play](#-how-to-play)
-- [Board Layout](#-board-layout)
-- [Code Structure](#-code-structure)
-- [Example Gameplay](#-example-gameplay)
-- [Requirements](#-requirements)
-- [Installation & Run](#-installation--run)
-- [Future Improvements](#-future-improvements)
-- [Contribution](#-contribution)
-- [License](#-license)
+
 
 ---
 
